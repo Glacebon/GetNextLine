@@ -4,5 +4,5 @@ Solo project for Hive Helsinki called get_next_line. In this project you are ask
 * [Subject](https://cdn.intra.42.fr/pdf/pdf/6620/get_next_line.en.pdf)
 
 ### Further information
-My get_next_line function and header reference functions and a header from my libft function library project.
+My get_next_line function and header reference functions and a header from my libft function library project which is not included in this repository but can be found in the link below.
 * [My libft](https://github.com/Glacebon/Libft)
